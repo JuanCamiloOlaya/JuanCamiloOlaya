@@ -10,3 +10,7 @@ I'm a young guy trying to learn a lot about many topics. If you find something w
 ### Coming soon.
 * Pronósticos restringidos (Spanish).
 * Estimation frameworks for covariance matrix in portfolios analysis.
+* Fiscal standards (Spanish/English)<sup>[1](#myfootnote1)</sup>
+
+### Ref.
+* <a name="myfootnote1">1</a>: Firstly, this repository is a personal research proposal about debt sustainability analysis. However, the idea is to share the estimation framework. 
