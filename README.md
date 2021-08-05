@@ -10,7 +10,7 @@ I'm a young guy trying to learn a lot about many topics. If you find something w
 
 ### Coming soon.
 * Pronósticos restringidos (Spanish).
-* Estimation frameworks for covariance matrix in portfolios analysis.
+* Estimation frameworks for covariance matrix in portfolios analysis (Portfolio-Analysis).
 * Fiscal standards <sup>[1](#myfootnote1)</sup>
 
 ### Ref.
