@@ -5,7 +5,8 @@ I'm an economist from EAFIT university (Medellin, Colombia). Throughout my unive
 I'm a young guy trying to learn a lot about many topics. If you find something wrong or know a different -more efficient- way to do it, I'm open to suggestions. Additionally, if you want to work with me in my profile is my email address :email:.
 
 ### Repositories :clipboard:
-* [Economics.](https://github.com/JuanCamiloOlaya/Economics)
+* [Economics](https://github.com/JuanCamiloOlaya/Economics)
+* [Understanding-Statistics-Using-R-CODES](https://github.com/JuanCamiloOlaya/Understanding-Statistics-Using-R-CODES)
 
 ### Coming soon.
 * Pronósticos restringidos (Spanish).
