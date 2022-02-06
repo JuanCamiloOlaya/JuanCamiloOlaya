@@ -4,7 +4,7 @@ I'm an economist from the EAFIT university interested in mathematics, statistics
 For that reason, the main idea is to share programming projects for those who want to learn how to use different tools to improve their performance, especially in economics.
 
 ### Collaborations :date:
-I'm a young guy trying to learn a lot about many topics. If you find something wrong or know a different -more efficient- way to do it, I'm open to suggestions. Additionally, if you want to work with me in my profile is my email address :email:.
+I'm a young guy trying to learn a lot about many topics. If you find something wrong or know a different -more efficient- way to do it, I'm open to suggestions. Finally, if you want to work with me, my email is in my profile:email:.
 
 ### Repositories :clipboard:
 * [Economics](https://github.com/JuanCamiloOlaya/Economics)
