@@ -19,13 +19,7 @@ I'm a young guy trying to learn a lot about many topics. If you find something w
 * <a name="myfootnote1">1</a>: Firstly, this repository is a personal research proposal about debt sustainability analysis. However, the idea is to share the estimation framework. 
 
 ### Program lenguages and tool.
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/R.png" width="100" height="80">
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/python.png" width="100" height="80">
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/MATLAB.png" width="100" height="80">
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/dynare.png" width="100" height="80">
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/sqlite.png" width="100" height="80">
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/excel.png" width="100" height="80">
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/vsc.png" width="100" height="80">
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/LaTeX.png" width="100" height="80">
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/cmaptools.png" width="100" height="80">
-<img src="https://github.com/JuanCamiloOlaya/JuanCamiloOlaya/blob/main/Images/git.png" width="100" height="80">
+| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
+| ----- | ----- | ----- | ----- | ----- |
+| [R](https://www.r-project.org/)/[RStudio](https://www.rstudio.com/products/rstudio/download/) | [Python](https://www.python.org/) | [MATLAB](https://www.mathworks.com/products/matlab.html) | [Dynare](https://www.dynare.org/) | [SQLite](https://www.sqlite.org/index.html) |
+| [Excel](https://www.microsoft.com/es-es/microsoft-365/excel) | [Visual Studio Code](https://code.visualstudio.com/) | [LaTeX](https://es.overleaf.com/) | [CmapTools](https://cmap.ihmc.us/cmaptools/) | [Git](https://git-scm.com/) |
