@@ -1,4 +1,4 @@
-### Hi, I'm Juan Camilo👋:metal:
+### Hi, I'm Juan Camilo👋
 I'm an economist from the EAFIT university interested in mathematics, statistics, econometrics, linear algebra, and using this knowledge with technological tools. Consequently, I like programming because it's a beautiful mechanics to solve real-world problems. For example, automate a boring report at work.
 
 For that reason, the main idea is to share programming projects for those who want to learn how to use different tools to improve their performance, especially in economics.
